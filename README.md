@@ -10,9 +10,9 @@ Blog: https://www.bezkoder.com/spring-boot-login-example-mysql/
 
 There are three roles:
 
-Admin -> Admin, Modertor and User board access
+Admin -> Admin, Moderator and User board access
 
-Moderator -> Modertor and User board ccess
+Moderator -> Moderator and User board ccess
 
 User -> User board access
 
